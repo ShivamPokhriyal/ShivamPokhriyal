@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ShivamPokhriyal/ShivamPokhriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/ShivamPokhriyal?tab=repositories">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamPokhriyal&theme=dark" alt="Shivam's github stats"/>
+</a>
+<a href="https://github.com/ShivamPokhriyal?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPokhriyal&theme=dark&hide_langs_below=1" />
+</a>
